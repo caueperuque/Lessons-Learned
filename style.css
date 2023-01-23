@@ -176,28 +176,28 @@ tr,
 h2,
 #title_aprendizagem,
 #aprendizagem {
-    text-align: center; 
+    text-align: center;
 }
 
 #header-2,
 #lista1,
 #lista2,
 #aprendizagem {
-    background-color: rgb(1,190,1);
+    background-color: rgb(1, 190, 1);
 }
 
-#aside, 
-#header-2, 
+#aside,
+#header-2,
 #lista1,
 #lista2,
 #aprendizagem {
     border-radius: 10px;
 }
 
-table, 
-#header-2, 
-#lista1 , 
-#lista2, 
+table,
+#header-2,
+#lista1,
+#lista2,
 #aprendizagem {
     box-shadow: 10px 5px 5px rgb(138, 138, 138);
 }
